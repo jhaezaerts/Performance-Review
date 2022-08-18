@@ -177,7 +177,7 @@ primaryColor = "#fc349c"
 backgroundColor = "#00338d"
 
 # Background color used for the sidebar and most interactive widgets.
-# secondaryBackgroundColor = "#1e49e2"
+secondaryBackgroundColor = "#1e49e2"
 
 # Color used for almost all text.
 # The value below was set in C:\Users\jhaezaerts\.streamlit\config.toml
