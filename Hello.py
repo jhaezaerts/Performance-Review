@@ -136,6 +136,11 @@ with goal3:
     st.markdown(':heart: Our community took the initiative to provide training to client-facing employees within BNPPF with the goal of teaching how they can perform analyses on our range of Tableau Dashboards. This should enable all users to generate figures and reports without the need for an intermediary data analyst. I co-hosted the training and performed after-service.')
     st.markdown("""---""")
 
+    # Gallery
+    st.markdown('**Action Gallery**')
+    st.image('./images/feedback_nico_cedric.png')
+    st.caption('Some indication of valuable work I must have done at BNP.')
+
 
 with goal4:
     st.write('')
